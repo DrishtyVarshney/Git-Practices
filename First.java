@@ -4,6 +4,7 @@ public class First {
 	{
 System.out.print("Hello");
 System.out.println("Hi");
+int a;
 
 }
 }
